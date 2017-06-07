@@ -82,10 +82,14 @@ li button{
   border:1px solid lightgrey;
   box-shadow: 4px 4px 5px grey;}
 
-footer{text-align:center;
-  margin:15px;}
+footer{
+  text-align:center;
+  margin:15px;
+  color:grey;}
 
-a{text-decoration:none;}
+a {
+  text-decoration:none;
+  color:grey;}
 
 @media (max-width: 768px){
 
